@@ -1,0 +1,10 @@
+# External modules
+termcolor
+
+# Built-in modules (no installation required)
+# - itertools
+# - random
+# - datetime
+# - argparse
+# - os
+# - configparser
