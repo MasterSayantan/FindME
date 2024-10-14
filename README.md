@@ -29,7 +29,7 @@ To run the FindME tool, ensure you have Python 3.x installed along with the foll
 - `termcolor`: For colored terminal output.
 - `configparser`: For reading configuration files.
 
-### Installation Steps
+## Installation Steps
 
 1. **Clone this repository**:
    ```bash
