@@ -31,15 +31,17 @@ To run the FindME tool, ensure you have Python 3.x installed along with the foll
 
 ### Installation Steps
 
-1. Clone this repository:
+1. **Clone this repository**:
    ```bash
    git clone https://github.com/MasterSayantan/FindME.git
    cd FindME
    pip install -r requirements.txt
+   ```
+## Usage
 
-### Usage
-Run the Tool: Execute the tool in interactive mode:
-```bash
+1. Run in Interactive Mode:
+   ``` bash
    python3 Findme.py -i
+   ```
 
    
