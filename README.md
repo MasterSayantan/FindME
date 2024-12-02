@@ -2,7 +2,7 @@
 
 FindME is a customizable wordlist generator tool designed for creating wordlists based on personal and contextual information. It allows you to generate a variety of combinations, including leet speak variations, special characters, and random numbers, making it a versatile tool for security professionals and researchers.
 
-![image](https://github.com/MasterSayantan/FindME/blob/main/Screenshot%202024-10-17%20182415.png)
+![image](https://github.com/MasterSayantan/FindME/blob/main/picture.png)
 
 ## Features
 
